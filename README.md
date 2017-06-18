@@ -22,6 +22,7 @@
 
 ## SCREENSHOT:-
 
+## some playstore screenshots taken from my xperia tipo 
 
 ![alt text](https://forum.xda-developers.com/attachment.php?attachmentid=2095939&d=1373086581 "ANTUTU BENCHMARK SCORE")
 
