@@ -28,4 +28,4 @@
 
 ![alt text](https://img.xda-cdn.com/QuhRYgm2jWYrrMESzECiguPwPLc=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2FScreenshot_2013-07-07-16-16-04_zps4e068975.png "NFS MW")	![alt text](https://img.xda-cdn.com/FZ9Ayrs7fhog99hk0vKMhu5DUb4=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2FScreenshot_2013-07-07-16-15-38_zpsc7323485.png "Contract Killer")
 
-###### Disclaimer:- All the credits to the original developers, This repo is a step wise guide to install drivers.
+###### Disclaimer:- All the credits to the original developers, This repo is a step wise guide to install Modify Device DPI.
