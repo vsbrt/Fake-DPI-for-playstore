@@ -13,11 +13,12 @@
 
 ## INSTALLATION PROCEDURE:-
 
-* Download the drivers zip and place it on sd card
-* Reboot phone into recovery mode
-* Flash the zip
-* Reboot!!
-* Done  !!
+* Download Multi DPI Play Store v4.1.6 for ICS/JB depending on your OS version
+* Place it on SD card
+* Reboot into CWM
+* Just flash the zip without wiping anything
+* Reboot
+* Done with installation. 
 
 ## SCREENSHOT:-
 
