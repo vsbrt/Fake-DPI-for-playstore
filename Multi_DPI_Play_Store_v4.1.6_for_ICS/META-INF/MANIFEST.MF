@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: bvEEXqtVxXdhwuAcEObROnaD7M4=
+
+Name: system/app/Phonesky.apk
+SHA1-Digest: wUMZx76Xg+Ns/m/6J1UK9Eeo2ns=
+
+Name: system/app/GoogleServicesFramework.apk
+SHA1-Digest: IwiZaWrByLHiBA5C8vpmRjX0O1U=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 36tveL1OkZJ1DYDeuFgPiSjRKg4=
+

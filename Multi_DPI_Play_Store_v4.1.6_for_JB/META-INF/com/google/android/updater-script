@@ -1,0 +1,22 @@
+ui_print("going install MULTI DPI FIX FOR playstore!!");
+ui_print("BY VSBRT");
+ui_print("");
+ui_print("----------------------------------------------");
+ui_print("|              VSBRT @XDA            |");
+ui_print("|         Multi DPI Play Store for ICS        |");        
+ui_print("----------------------------------------------");
+ui_print("");
+ui_print("    Installing Fix.... ");
+
+show_progress(0.500000, 0);
+
+run_program("/sbin/busybox", "mount", "/system");
+delete("/system/app/Phonesky.apk");
+delete("/system/app/Vending.apk");
+delete("/system/app/GoogleServicesFramework.apk");
+package_extract_dir("system", "/system");
+unmount("/system");
+
+show_progress(0.100000, 0);
+ui_print("DONT FORGET TO HIT THANKS!!");
+ui_print("    Reboot & Enjoy!! ");
